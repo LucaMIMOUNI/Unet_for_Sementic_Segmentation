@@ -1,6 +1,6 @@
 # Sementic Segmentation for Leucocyte images.
 
-*Please, download the weights.zip file in the tag section before running the main.py*
+*Please, download the `weights.zip` file in the tag section before running the main.py*
 
 ## Claim
 From a Diana MATEUS Lab work, lesson 'APSTA' from Centrale Nantes.
